@@ -1,0 +1,16 @@
+org_name: nullstone
+name: gcp-betterstack
+friendly_name: Better Stack
+description: Creates a Nullstone datastore holding Better Stack ingestion credentials
+category: datastore
+subcategory: ""
+provider_types:
+    - gcp
+platform: betterstack
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
+tool_name: opentofu
+include: []
+source_url: https://github.com/nullstone-modules/gcp-betterstack
